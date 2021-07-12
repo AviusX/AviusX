@@ -10,7 +10,7 @@ I am currently a 3rd year Computer Science student. I am mainly interested in cy
   <img alt="Python" src="https://img.shields.io/badge/Python-282a35?style=for-the-badge&logo=python&logoColor=282a35&labelColor=9580ff" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282a35?style=for-the-badge&logo=javascript&logoColor=282a35&labelColor=9580ff" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282a35?style=for-the-badge&logo=typescript&logoColor=282a35&labelColor=9580ff" />
-  <img alt="Node" src="https://img.shields.io/badge/Node.JS-282a35?style=for-the-badge&logo=node-dot-js&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Node" src="https://img.shields.io/badge/Node.JS-282a35?style=for-the-badge&logo=node.js&logoColor=282a35&labelColor=9580ff" />
   <img alt="Java" src="https://img.shields.io/badge/Java-282a35?style=for-the-badge&logo=java&logoColor=282a35&labelColor=9580ff" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-282a35?style=for-the-badge&logo=dart&logoColor=282a35&labelColor=9580ff" />
   <br />
