@@ -10,10 +10,11 @@ I am currently a 4th year Computer Science student. I am mainly interested in cy
   <img alt="Python" src="https://img.shields.io/badge/Python-282a35?style=for-the-badge&logo=python&logoColor=282a35&labelColor=9580ff" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282a35?style=for-the-badge&logo=javascript&logoColor=282a35&labelColor=9580ff" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282a35?style=for-the-badge&logo=typescript&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-282a35?style=for-the-badge&logo=rust&logoColor=282a35&labelColor=9580ff" />
   <img alt="Node" src="https://img.shields.io/badge/Node.JS-282a35?style=for-the-badge&logo=node.js&logoColor=282a35&labelColor=9580ff" />
   <img alt="Java" src="https://img.shields.io/badge/Java-282a35?style=for-the-badge&logo=java&logoColor=282a35&labelColor=9580ff" />
+   <br />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-282a35?style=for-the-badge&logo=dart&logoColor=282a35&labelColor=9580ff" />
-  <br />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-282a35?style=for-the-badge&logo=Flutter&logoColor=282a35&labelColor=9580ff" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-282a35?style=for-the-badge&logo=linux&logoColor=282a35&labelColor=9580ff" />
   <img alt="HTML5" src="https://img.shields.io/badge/html%205-282a35?style=for-the-badge&logo=html5&logoColor=282a35&labelColor=9580ff" />
