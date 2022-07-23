@@ -12,7 +12,7 @@ I am a Software Engineer. I like to create, and so I spend much of my time learn
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282a35?style=for-the-badge&logo=typescript&logoColor=282a35&labelColor=9580ff" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-282a35?style=for-the-badge&logo=rust&logoColor=282a35&labelColor=9580ff" />
   <img alt="Node" src="https://img.shields.io/badge/Node.JS-282a35?style=for-the-badge&logo=node.js&logoColor=282a35&labelColor=9580ff" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-282a35?style=for-the-badge&logo=java&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-282a35?style=for-the-badge&logo=&logoColor=282a35&labelColor=9580ff" />
    <br />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-282a35?style=for-the-badge&logo=dart&logoColor=282a35&labelColor=9580ff" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-282a35?style=for-the-badge&logo=Flutter&logoColor=282a35&labelColor=9580ff" />
