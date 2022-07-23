@@ -1,7 +1,7 @@
 ## Hello there! 👋
 <img align="right" src="./images/transparent-logo.png">
 <h3> About me </h3>
-I am full stack developer. I have a lot of fun developing new things so I keep learning new development technologies to build interesting things like apps, websites and automation scripts. I am also interested in cybersecurity and I love to practice my skills on platforms like HackTheBox. Below is a quick overview of my profile. If it interests you, feel free to check out some of my projects.
+I am a Software Engineer. I like to create, and so I spend much of my time learning new technologies that can help me build interesting stuff, and much more time... well, building interesting stuff. I am also a cybersecurity enthusiast and like to play around on platforms like HackTheBox whenever I get the time. Below is a quick overview of my profile. If it interests you, feel free to check out some of my projects!
 
 ---
 #### Languages & Frameworks
